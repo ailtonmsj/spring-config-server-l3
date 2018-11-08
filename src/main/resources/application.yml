@@ -1,0 +1,3 @@
+---
+spring.cloud.config.server.git.uri: https://ailtonmsj@dev.azure.com/ailtonmsj/Spring-Cloud-L3/_git/ConfigData.git
+server.port: 8001
