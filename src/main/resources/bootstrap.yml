@@ -1,2 +1,0 @@
-spring.application.name: l3-client
-spring.cloud.config.uri: http://localhost:8001  
